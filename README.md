@@ -4,4 +4,6 @@ A thrilling game prototype detailing the struggle of the trapped and stolen play
 
 Created along with .... over three weeks for the third and final sprint of the game development module in April/May 2019. 
 
-This is a short run with a randomly-generated dungeon and static pre-made boss rooms in the dungeon.
+This is a short run with a randomly-generated dungeon and static pre-made boss rooms in the dungeon. Best played on a wide-screen 16:9/16:10 monitor, the scaling has a tendency not to work too well with ultra-wides.
+
+Created with Unity 2019.1.0f2
