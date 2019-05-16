@@ -1,0 +1,5 @@
+Bibliography
+
+Audio files 321012 and 323903 from little robot sound factory: https://freesound.org/people/LittleRobotSoundFactory/
+Star, baseline_arrow from material.io: https://material.io/tools/icons/?style=baseline
+All other assets either created ourselves or from the Humble Bundle 8-bit asset store https://www.humblebundle.com/software/8bit-pixel-game-dev-software?hmb_source=humble_home&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_twos_tile_index_1_c_8bitpixelgamedev_bundle

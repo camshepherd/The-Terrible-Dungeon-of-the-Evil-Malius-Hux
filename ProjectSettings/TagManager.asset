@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Missile
+  - PickUp
+  - TextBuilder
+  - Hux
+  - HuxMissile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backdrop
+    uniqueID: 2683210187
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Active
+    uniqueID: 2656528035
+    locked: 0
+  - name: Overlay
+    uniqueID: 3008097139
+    locked: 0
